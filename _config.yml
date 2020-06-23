@@ -1,11 +1,11 @@
 # Site settings
 author: Micah Bowie
-title: 
+title: Micah Bowie's Blog 
 header-img: img/home-bg.png
 email: micahbowie20@gmail.com
 copyright_name: Micah Bowie
 description: > # this means to ignore newlines until "baseurl:"
-  
+  6/23/20 First mile
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  micahbowie
