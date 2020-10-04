@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Jot it down, Sinatra Project"
-date:       2020-10-04 20:56:42 +0000
+date:       2020-10-04 16:56:43 -0400
 permalink:  jot_it_down_sinatra_project
 ---
 
