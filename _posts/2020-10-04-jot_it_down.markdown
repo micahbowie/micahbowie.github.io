@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Jot it down"
-date:       2020-10-04 17:49:36 +0000
+date:       2020-10-04 13:49:37 -0400
 permalink:  jot_it_down
 ---
 
